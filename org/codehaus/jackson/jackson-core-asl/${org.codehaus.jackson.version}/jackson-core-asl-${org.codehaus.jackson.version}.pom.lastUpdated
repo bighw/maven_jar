@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Feb 26 14:22:53 CST 2016
+http\://192.168.1.200\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.codehaus.jackson\:jackson-core-asl\:pom\:${org.codehaus.jackson.version} from/to nexus (http\://192.168.1.200\:8081/nexus/content/groups/public)\: Illegal character in path at index 93\: http\://192.168.1.200\:8081/nexus/content/groups/public/org/codehaus/jackson/jackson-core-asl/${org.codehaus.jackson.version}/jackson-core-asl-${org.codehaus.jackson.version}.pom
+d60b772c6205311fae6fae9f8509986da1fe7029@default-http\://192.168.1.200\:8081/nexus/content/groups/public/.lastUpdated=1456467773178

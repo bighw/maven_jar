@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>hyx_springmvc_demo</groupId>
+  <artifactId>hyx_springmvc_demo</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160108085202</lastUpdated>
+  </versioning>
+</metadata>
